@@ -1,0 +1,13 @@
+.nav-bar-bg {
+  background-color: #61dafb;
+  /* min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: left;
+    font-size: calc(10px + 2vmin); */
+}
+
+.nav-text-color {
+  color: #282c34;
+}

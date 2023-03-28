@@ -1,0 +1,17 @@
+.movies-bg {
+  background-color: #282c34;
+  min-height: 100vh;
+}
+
+.movies-link {
+  color: #61dafb;
+}
+
+.Movie-header {
+  background-color: #282c34;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
